@@ -11,6 +11,7 @@ Este projeto apresenta uma análise detalhada da performance das quatro lojas do
 - **Vendas por categoria em cada loja**
 - **Avaliações de cada loja**
 - **Produtos mais vendidos**
+- **Produtos em relação ao preço**
 - **Frete médio**
 
 ## Recomendação
